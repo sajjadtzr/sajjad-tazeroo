@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechStore - Next.js Ecommerce Platform
 
 A modern, full-featured ecommerce platform built with Next.js, PostgreSQL, and AdminJS featuring a sleek black technology theme.
@@ -231,3 +232,6 @@ This project is proprietary software. All rights reserved.
 ---
 
 Built with ❤️ using Next.js, PostgreSQL, and AdminJS
+=======
+# sajjad-tazeroo
+>>>>>>> 09fcac66d040dd79ace44c6aed1b82d99facf7d4
