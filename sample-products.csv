@@ -1,0 +1,21 @@
+name,description,price,salePrice,sku,stock,category,images,featured,active,weight
+iPhone 15 Pro Max,Latest flagship iPhone with titanium design and advanced camera system,1199.99,1099.99,IPHONE15PROMAX,25,Electronics,"https://via.placeholder.com/600x600/1e293b/60a5fa?text=iPhone+15+Pro,https://via.placeholder.com/600x600/1e293b/f472b6?text=iPhone+Camera",true,true,0.65
+MacBook Pro 16-inch,Powerful laptop with M3 Max chip for professional workflows,2499.99,,MACBOOK16M3,15,Electronics,"https://via.placeholder.com/600x600/1e293b/60a5fa?text=MacBook+Pro,https://via.placeholder.com/600x600/1e293b/10b981?text=MacBook+Screen",true,true,4.8
+AirPods Pro 2nd Gen,Premium wireless earbuds with active noise cancellation,249.99,199.99,AIRPODSPRO2,50,Electronics,"https://via.placeholder.com/600x600/1e293b/f472b6?text=AirPods+Pro",false,true,0.2
+Samsung Galaxy S24 Ultra,Flagship Android phone with S Pen and advanced AI features,1299.99,1199.99,GALAXYS24ULTRA,20,Electronics,"https://via.placeholder.com/600x600/1e293b/8b5cf6?text=Galaxy+S24",true,true,0.7
+Dell XPS 13 Plus,Ultra-portable laptop with stunning OLED display,1399.99,,DELLXPS13PLUS,12,Electronics,"https://via.placeholder.com/600x600/1e293b/06b6d4?text=Dell+XPS",false,true,2.8
+Sony WH-1000XM5,Industry-leading noise canceling wireless headphones,399.99,349.99,SONYWH1000XM5,30,Electronics,"https://via.placeholder.com/600x600/1e293b/f59e0b?text=Sony+Headphones",false,true,1.2
+iPad Pro 12.9-inch,Professional tablet with M2 chip and Liquid Retina display,1099.99,999.99,IPADPRO129M2,18,Electronics,"https://via.placeholder.com/600x600/1e293b/ef4444?text=iPad+Pro",true,true,1.5
+Apple Watch Series 9,Advanced health and fitness tracking with ECG and blood oxygen,399.99,349.99,APPLEWATCH9,35,Electronics,"https://via.placeholder.com/600x600/1e293b/84cc16?text=Apple+Watch",false,true,0.15
+Nintendo Switch OLED,Gaming console with vibrant OLED screen,349.99,,SWITCHOLED,40,Gaming,"https://via.placeholder.com/600x600/1e293b/f472b6?text=Nintendo+Switch",false,true,1.2
+PlayStation 5,Next-gen gaming console with ray tracing and 3D audio,499.99,,PS5CONSOLE,8,Gaming,"https://via.placeholder.com/600x600/1e293b/3b82f6?text=PlayStation+5",true,true,9.8
+Xbox Series X,Powerful gaming console with 4K gaming capability,499.99,,XBOXSERIESX,12,Gaming,"https://via.placeholder.com/600x600/1e293b/10b981?text=Xbox+Series+X",false,true,9.6
+Steam Deck,Portable gaming PC with access to Steam library,399.99,349.99,STEAMDECK,25,Gaming,"https://via.placeholder.com/600x600/1e293b/f59e0b?text=Steam+Deck",false,true,1.8
+Canon EOS R6 Mark II,Professional mirrorless camera with 24.2MP sensor,2499.99,,CANONR6MK2,6,Photography,"https://via.placeholder.com/600x600/1e293b/8b5cf6?text=Canon+R6",true,true,2.1
+Sony Alpha a7 IV,Full-frame mirrorless camera with 33MP resolution,2498.99,2299.99,SONYA7IV,8,Photography,"https://via.placeholder.com/600x600/1e293b/06b6d4?text=Sony+Alpha",false,true,1.9
+DJI Mini 3 Pro,Compact drone with 4K camera and obstacle avoidance,759.99,699.99,DJIMINI3PRO,15,Photography,"https://via.placeholder.com/600x600/1e293b/ef4444?text=DJI+Mini",false,true,0.75
+GoPro Hero 12 Black,Action camera with 5.3K video and HyperSmooth stabilization,399.99,349.99,GOPROHERO12,22,Photography,"https://via.placeholder.com/600x600/1e293b/84cc16?text=GoPro+Hero",false,true,0.32
+Tesla Model S Plaid Wheel,20-inch performance wheel for Tesla Model S Plaid,1200.99,,TESLAWHEEL20,10,Automotive,"https://via.placeholder.com/600x600/1e293b/f472b6?text=Tesla+Wheel",false,true,25.5
+Dyson V15 Detect,Cordless vacuum with laser dust detection,749.99,649.99,DYSONV15,20,Home,"https://via.placeholder.com/600x600/1e293b/3b82f6?text=Dyson+V15",false,true,6.8
+Nest Learning Thermostat,Smart thermostat that learns your schedule,249.99,199.99,NESTTHERMO4,30,Home,"https://via.placeholder.com/600x600/1e293b/10b981?text=Nest+Thermostat",false,true,0.5
+Ring Video Doorbell Pro 2,Advanced video doorbell with 3D motion detection,249.99,199.99,RINGPRO2,25,Home,"https://via.placeholder.com/600x600/1e293b/f59e0b?text=Ring+Doorbell",false,true,1.1
